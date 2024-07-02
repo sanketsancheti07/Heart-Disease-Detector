@@ -10,7 +10,7 @@
 #### 1) Clone Github Repository :
 
 
-        git clone https://github.com/Siddhudhole/Heart-Disease-Detector.git 
+        git clone https://github.com/sanketsancheti07/Heart-Disease-Detector 
 
 #### 2) Create a new virtual environment:
 
